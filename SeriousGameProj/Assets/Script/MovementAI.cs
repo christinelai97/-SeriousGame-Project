@@ -10,6 +10,8 @@ public class MovementAI : MonoBehaviour
     private float waitTime;
     public float startWaitTime;
 
+    bool flipped = false;
+
 
     //array for all positions the AI will move to
     public Transform[] moveSpots;
@@ -33,6 +35,7 @@ public class MovementAI : MonoBehaviour
             {
                 randomSpot = Random.Range(0, moveSpots.Length);
                 waitTime = startWaitTime;
+                flipped = false;
             }
             else
             {
@@ -47,7 +50,7 @@ public class MovementAI : MonoBehaviour
         if (isFacingRight && transform.localScale.x < 0
             || !isFacingRight && transform.localScale.x > 0)
         {
-            Flip();
+            if(!flipped)Flip();
         }
     }
 
@@ -55,6 +58,7 @@ public class MovementAI : MonoBehaviour
     {
         // invert the local X-axis scale
         transform.localScale = new Vector3(-transform.localScale.x, transform.localScale.y, transform.localScale.z);
+        flipped = true;
     }
 
 
