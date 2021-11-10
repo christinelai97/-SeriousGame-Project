@@ -312,6 +312,7 @@ GameObject:
   - component: {fileID: 1526401066}
   - component: {fileID: 1526401065}
   - component: {fileID: 1526401067}
+  - component: {fileID: 1526401068}
   m_Layer: 0
   m_Name: MaleSprite
   m_TagString: Untagged
@@ -444,9 +445,30 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   movement: {x: 0, y: 0}
+  move: 0
   rigid: {fileID: 0}
   speed: 6
   isFacingRight: 1
+  anim: {fileID: 0}
+--- !u!95 &1526401068
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1526401062}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: f16ee3f3ae5482b4787df268ad223a7f, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &2002934130
 GameObject:
   m_ObjectHideFlags: 0
