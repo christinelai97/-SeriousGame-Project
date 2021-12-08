@@ -4,11 +4,13 @@ using UnityEngine;
 
 public class MovementAI : MonoBehaviour
 {
+    [SerializeField] private FlipCanvas bubble;
 
     //used to tweak how fast AI will move around scene
     public float speed;
     private float waitTime;
     public float startWaitTime;
+    private bool interacting;
 
     bool flipped = false;
 
@@ -27,6 +29,9 @@ public class MovementAI : MonoBehaviour
 
     void Update()
     {
+
+        if (!interacting)
+        {
         transform.position = Vector2.MoveTowards(transform.position, moveSpots[randomSpot].position, speed * Time.deltaTime);
 
         if (Vector2.Distance(transform.position, moveSpots[randomSpot].position) < 0.2f)
@@ -42,6 +47,7 @@ public class MovementAI : MonoBehaviour
                 waitTime -= Time.deltaTime;
             }
 
+        
         }
 
         var difference = moveSpots[randomSpot].position - transform.position;
@@ -52,13 +58,25 @@ public class MovementAI : MonoBehaviour
         {
             if(!flipped)Flip();
         }
+        }
+        if (interacting){
+
+        }
     }
 
     private void Flip()
     {
         // invert the local X-axis scale
         transform.localScale = new Vector3(-transform.localScale.x, transform.localScale.y, transform.localScale.z);
+        bubble.Flip();
+
+
         flipped = true;
+    }
+
+    public void ToggleInteraction()
+    {
+        interacting = !interacting;
     }
 
 
