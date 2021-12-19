@@ -4,15 +4,19 @@ using UnityEngine;
 
 public class MovementAI : MonoBehaviour
 {
-    [SerializeField] private FlipCanvas bubble;
 
     //used to tweak how fast AI will move around scene
     public float speed;
     private float waitTime;
     public float startWaitTime;
-    private bool interacting;
+    [SerializeField] Animator anim;
 
+    bool isMoving = false;
     bool flipped = false;
+
+    const int IDLE = 0;
+    const int MOVE = 1;
+
 
 
     //array for all positions the AI will move to
@@ -25,30 +29,42 @@ public class MovementAI : MonoBehaviour
     {
         waitTime = startWaitTime;
         randomSpot = Random.Range(0, moveSpots.Length);
+
+        if (anim == null)
+        {
+            anim.GetComponent<Animator>();
+        }
+
+        anim.SetInteger("Motion", IDLE);
     }
 
     void Update()
     {
-
-        if (!interacting)
-        {
         transform.position = Vector2.MoveTowards(transform.position, moveSpots[randomSpot].position, speed * Time.deltaTime);
 
         if (Vector2.Distance(transform.position, moveSpots[randomSpot].position) < 0.2f)
         {
             if (waitTime <= 0)
             {
+                isMoving = true;
+
                 randomSpot = Random.Range(0, moveSpots.Length);
                 waitTime = startWaitTime;
                 flipped = false;
+
+                
             }
             else
             {
+                isMoving = false;
+           
+
                 waitTime -= Time.deltaTime;
+              
             }
 
-        
         }
+
 
         var difference = moveSpots[randomSpot].position - transform.position;
         var isFacingRight = difference.x > 0;
@@ -58,8 +74,18 @@ public class MovementAI : MonoBehaviour
         {
             if(!flipped)Flip();
         }
+    }
+
+    private void FixedUpdate()
+    {
+        if (isMoving)
+        {
+            anim.SetInteger("Motion", MOVE);
+
         }
-        if (interacting){
+        else
+        {
+            anim.SetInteger("Motion", IDLE);
 
         }
     }
@@ -68,15 +94,7 @@ public class MovementAI : MonoBehaviour
     {
         // invert the local X-axis scale
         transform.localScale = new Vector3(-transform.localScale.x, transform.localScale.y, transform.localScale.z);
-        bubble.Flip();
-
-
         flipped = true;
-    }
-
-    public void ToggleInteraction()
-    {
-        interacting = !interacting;
     }
 
 

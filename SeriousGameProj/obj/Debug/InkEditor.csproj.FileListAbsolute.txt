@@ -1,0 +1,2 @@
+/Users/chinenlai/Documents/Unity/SeriousGameProj copy/obj/Debug/InkEditor.csproj.AssemblyReference.cache
+/Users/chinenlai/Documents/Unity/SeriousGameProj copy/obj/Debug/InkEditor.csproj.CoreCompileInputs.cache

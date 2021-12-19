@@ -11,7 +11,6 @@ public class Movement : MonoBehaviour
 	[SerializeField] bool isFacingRight = true;
 	[SerializeField] Animator anim;
 	private AudioSource footstep;
-	private bool interacting;
 	
 	const int IDLE = 0;
 	const int WALK = 1;
@@ -38,19 +37,9 @@ public class Movement : MonoBehaviour
 
 	void Update()
 	{
-		if (!interacting)
-		{
 		movement.x = Input.GetAxisRaw("Horizontal");
 		movement.y = Input.GetAxisRaw("Vertical");
 		move = movement.x;
-	    }
-		if (interacting)
-		{
-		anim.SetInteger("motion",IDLE);
-		movement.x = 0;
-		movement.y = 0;
-		move = 0;
-		}
 	}
 
 	//called potentially multiple times per frame, best for physics for smooth behavior
@@ -76,11 +65,6 @@ public class Movement : MonoBehaviour
 
 
 	}
-
-	 public void ToggleInteraction()
-    {
-        interacting = !interacting;
-    }
 
 	void Flip()
 	{
