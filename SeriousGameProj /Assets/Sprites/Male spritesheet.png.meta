@@ -1,0 +1,849 @@
+fileFormatVersion: 2
+guid: 4f565a309f9174a8a8a21e94a4f8b272
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4822466991342729341
+    second: Male spritesheet_0
+  - first:
+      213: -2464745860278086254
+    second: Male spritesheet_1
+  - first:
+      213: -1758926753746142564
+    second: Male spritesheet_2
+  - first:
+      213: 560551872641081234
+    second: Male spritesheet_3
+  - first:
+      213: 7255419427472174907
+    second: Male spritesheet_4
+  - first:
+      213: 8774018634469312755
+    second: Male spritesheet_5
+  - first:
+      213: -6628110511649242961
+    second: Male spritesheet_6
+  - first:
+      213: 6515149695115289841
+    second: Male spritesheet_7
+  - first:
+      213: -3368816540392524646
+    second: Male spritesheet_8
+  - first:
+      213: -3660215841785194794
+    second: Male spritesheet_9
+  - first:
+      213: -1828326737290050236
+    second: Male spritesheet_10
+  - first:
+      213: 8771938964976789359
+    second: Male spritesheet_11
+  - first:
+      213: -2903142353608480817
+    second: Male spritesheet_12
+  - first:
+      213: 4184851720987746573
+    second: Male spritesheet_13
+  - first:
+      213: 843875326880593868
+    second: Male spritesheet_14
+  - first:
+      213: -2206728556870257859
+    second: Male spritesheet_15
+  - first:
+      213: 4975609520474146536
+    second: Male spritesheet_16
+  - first:
+      213: -2737009025871764952
+    second: Male spritesheet_17
+  - first:
+      213: 6525375821189510702
+    second: Male spritesheet_18
+  - first:
+      213: 2824750756964329183
+    second: Male spritesheet_19
+  - first:
+      213: -1129439527418135144
+    second: Male spritesheet_20
+  - first:
+      213: -6275658141237462145
+    second: Male spritesheet_21
+  - first:
+      213: 4987941850098398943
+    second: Male spritesheet_22
+  - first:
+      213: 2250753390498162021
+    second: Male spritesheet_23
+  - first:
+      213: -3777108643956210819
+    second: Male spritesheet_24
+  - first:
+      213: 3739068222253428300
+    second: Male spritesheet_25
+  - first:
+      213: 1056483886627586098
+    second: Male spritesheet_26
+  - first:
+      213: 943241658320810902
+    second: Male spritesheet_27
+  - first:
+      213: 6679879456128933245
+    second: Male spritesheet_28
+  - first:
+      213: 1668663974243951129
+    second: Male spritesheet_29
+  - first:
+      213: -4685146669036610327
+    second: Male spritesheet_30
+  - first:
+      213: -2320252793466405730
+    second: Male spritesheet_31
+  - first:
+      213: 4505601266292620774
+    second: Male spritesheet_32
+  - first:
+      213: -5297941582411618923
+    second: Male spritesheet_33
+  - first:
+      213: -6198630209022394205
+    second: Male spritesheet_34
+  - first:
+      213: 1765151562745188126
+    second: Male spritesheet_35
+  - first:
+      213: -8904813682440663281
+    second: Male spritesheet_36
+  - first:
+      213: -2463042091862831351
+    second: Male spritesheet_37
+  - first:
+      213: -9197209967684294715
+    second: Male spritesheet_38
+  - first:
+      213: -6516030306736883983
+    second: Male spritesheet_39
+  - first:
+      213: -8453623353533785323
+    second: Male spritesheet_40
+  - first:
+      213: -7720656044611555056
+    second: Male spritesheet_41
+  - first:
+      213: -6153001400838066512
+    second: Male spritesheet_42
+  - first:
+      213: -9166331698756242489
+    second: Male spritesheet_43
+  - first:
+      213: 5478593184051030178
+    second: Male spritesheet_44
+  - first:
+      213: -1970690144569799189
+    second: Male spritesheet_45
+  - first:
+      213: 8280323175817108252
+    second: Male spritesheet_46
+  - first:
+      213: 6874619354191562418
+    second: Male spritesheet_47
+  - first:
+      213: 6423536411960427696
+    second: Male spritesheet_48
+  - first:
+      213: -1835468173808236584
+    second: Male spritesheet_49
+  - first:
+      213: -4266382901568202262
+    second: Male spritesheet_50
+  - first:
+      213: 8109456959935512115
+    second: Male spritesheet_51
+  - first:
+      213: -7008996653810389650
+    second: Male spritesheet_52
+  - first:
+      213: 4948605944330514682
+    second: Male spritesheet_53
+  - first:
+      213: 6439363922858906646
+    second: Male spritesheet_54
+  - first:
+      213: -6853566376549386579
+    second: Male spritesheet_55
+  - first:
+      213: 916675742622709520
+    second: Male spritesheet_56
+  - first:
+      213: -7441871098653216752
+    second: Male spritesheet_57
+  - first:
+      213: 5534610685485658066
+    second: Male spritesheet_58
+  - first:
+      213: -4160054706659844891
+    second: Male spritesheet_59
+  - first:
+      213: 5589378433043631599
+    second: Male spritesheet_60
+  - first:
+      213: 980818703279501510
+    second: Male spritesheet_61
+  - first:
+      213: 5413459224426325273
+    second: Male spritesheet_62
+  - first:
+      213: -6323082908097581203
+    second: Male spritesheet_63
+  - first:
+      213: -5960636436540701185
+    second: Male spritesheet_64
+  - first:
+      213: -2098035127172734283
+    second: Male spritesheet_65
+  - first:
+      213: 5644933389781499932
+    second: Male spritesheet_66
+  - first:
+      213: 5979995928688996721
+    second: Male spritesheet_67
+  - first:
+      213: 3260980706113862731
+    second: Male spritesheet_68
+  - first:
+      213: -64125576388799786
+    second: Male spritesheet_69
+  - first:
+      213: -6807464653586690351
+    second: Male spritesheet_70
+  - first:
+      213: -5749426991774137324
+    second: Male spritesheet_71
+  - first:
+      213: -3390118883402585626
+    second: Male spritesheet_72
+  - first:
+      213: -7443259047388781962
+    second: Male spritesheet_73
+  - first:
+      213: -6892349478502434491
+    second: Male spritesheet_74
+  - first:
+      213: 1242177416170086173
+    second: Male spritesheet_75
+  - first:
+      213: -5576775446223106677
+    second: Male spritesheet_76
+  - first:
+      213: 367452331865861982
+    second: Male spritesheet_77
+  - first:
+      213: -8326211147111192399
+    second: Male spritesheet_78
+  - first:
+      213: 2389394013491364739
+    second: Male spritesheet_79
+  - first:
+      213: 8803406241947298984
+    second: Male spritesheet_80
+  - first:
+      213: -1988564853648792176
+    second: Male spritesheet_81
+  - first:
+      213: 1861964322375453991
+    second: Male spritesheet_82
+  - first:
+      213: 1129010073930839111
+    second: Male spritesheet_83
+  - first:
+      213: -5133432705835120783
+    second: Male spritesheet_84
+  - first:
+      213: -4239307805472114630
+    second: Male spritesheet_85
+  - first:
+      213: 569663966945595681
+    second: Male spritesheet_86
+  - first:
+      213: 4686399485591209356
+    second: Male spritesheet_87
+  - first:
+      213: 3724479685780877754
+    second: Male spritesheet_88
+  - first:
+      213: -9072274256344225249
+    second: Male spritesheet_89
+  - first:
+      213: 1930911449545686949
+    second: Male spritesheet_90
+  - first:
+      213: -7870193275420263517
+    second: Male spritesheet_91
+  - first:
+      213: 4324598873799031991
+    second: Male spritesheet_92
+  - first:
+      213: -1141051406763114945
+    second: Male spritesheet_93
+  - first:
+      213: -4242471472348688538
+    second: Male spritesheet_94
+  - first:
+      213: 4181313282387286857
+    second: Male spritesheet_95
+  - first:
+      213: 6967111835845685792
+    second: Male spritesheet_96
+  - first:
+      213: -7946622925397432980
+    second: Male spritesheet_97
+  - first:
+      213: 6399607793787528270
+    second: Male spritesheet_98
+  - first:
+      213: -6689827136223995686
+    second: Male spritesheet_99
+  - first:
+      213: -5619901982729240433
+    second: Male spritesheet_100
+  - first:
+      213: -3221271278222573471
+    second: Male spritesheet_101
+  - first:
+      213: 7315453844875173027
+    second: Male spritesheet_102
+  - first:
+      213: -7887764571349391309
+    second: Male spritesheet_103
+  - first:
+      213: 2132546809855935011
+    second: Male spritesheet_104
+  - first:
+      213: 8687808291917333434
+    second: Male spritesheet_105
+  - first:
+      213: 7615187208954521288
+    second: Male spritesheet_106
+  - first:
+      213: -28273162888915296
+    second: Male spritesheet_107
+  - first:
+      213: -3819248337337974955
+    second: Male spritesheet_108
+  - first:
+      213: 4614634529958633583
+    second: Male spritesheet_109
+  - first:
+      213: 741778570569926662
+    second: Male spritesheet_110
+  - first:
+      213: 1490715693707513670
+    second: Male spritesheet_111
+  - first:
+      213: 6805587990577419374
+    second: Male spritesheet_112
+  - first:
+      213: -5742899769336918470
+    second: Male spritesheet_113
+  - first:
+      213: -5322091365097092422
+    second: Male spritesheet_114
+  - first:
+      213: -517331059852067997
+    second: Male spritesheet_115
+  - first:
+      213: -7506733416931255853
+    second: Male spritesheet_116
+  - first:
+      213: -1184140412288358123
+    second: Male spritesheet_117
+  - first:
+      213: 1936967683869746775
+    second: Male spritesheet_118
+  - first:
+      213: -6422792825631166517
+    second: Male spritesheet_119
+  - first:
+      213: -7321991154484120950
+    second: Male spritesheet_120
+  - first:
+      213: -8493826858656294787
+    second: Male spritesheet_121
+  - first:
+      213: 2685332794662124673
+    second: Male spritesheet_122
+  - first:
+      213: -7534496149624076902
+    second: Male spritesheet_123
+  - first:
+      213: -7597026778774812913
+    second: Male spritesheet_124
+  - first:
+      213: -6776860551589510906
+    second: Male spritesheet_125
+  - first:
+      213: -6773438236946645072
+    second: Male spritesheet_126
+  - first:
+      213: -1090538355572638801
+    second: Male spritesheet_127
+  - first:
+      213: 61289191481939771
+    second: Male spritesheet_128
+  - first:
+      213: -4379532811746260552
+    second: Male spritesheet_129
+  - first:
+      213: -7445108649592836708
+    second: Male spritesheet_130
+  - first:
+      213: -3156133878098644290
+    second: Male spritesheet_131
+  - first:
+      213: 1966816551150463166
+    second: Male spritesheet_132
+  - first:
+      213: 7068760404326927811
+    second: Male spritesheet_133
+  - first:
+      213: 1411460259969945209
+    second: Male spritesheet_134
+  - first:
+      213: -8451669987465625754
+    second: Male spritesheet_135
+  - first:
+      213: 5083328400875621880
+    second: Male spritesheet_136
+  - first:
+      213: 779071530352694118
+    second: Male spritesheet_137
+  - first:
+      213: -6220215640574276042
+    second: Male spritesheet_138
+  - first:
+      213: -7294509400651697029
+    second: Male spritesheet_139
+  - first:
+      213: -8789170287945455366
+    second: Male spritesheet_140
+  - first:
+      213: -7474163066175009920
+    second: Male spritesheet_141
+  - first:
+      213: -5884482863052571672
+    second: Male spritesheet_142
+  - first:
+      213: -5838763926695465184
+    second: Male spritesheet_143
+  - first:
+      213: 6822080658831907721
+    second: Male spritesheet_144
+  - first:
+      213: -8833413412999535060
+    second: Male spritesheet_145
+  - first:
+      213: 6374408913759894125
+    second: Male spritesheet_146
+  - first:
+      213: -4292241332170474621
+    second: Male spritesheet_147
+  - first:
+      213: 4245876936352964120
+    second: Male spritesheet_148
+  - first:
+      213: -7192566719245947634
+    second: Male spritesheet_149
+  - first:
+      213: 5319779106513673268
+    second: Male spritesheet_150
+  - first:
+      213: -8541858218117436650
+    second: Male spritesheet_151
+  - first:
+      213: 3867987789681060749
+    second: Male spritesheet_152
+  - first:
+      213: 7372796071057382277
+    second: Male spritesheet_153
+  - first:
+      213: 1991277376286402139
+    second: Male spritesheet_154
+  - first:
+      213: 5052777870540531399
+    second: Male spritesheet_155
+  - first:
+      213: 6009933530250453184
+    second: Male spritesheet_156
+  - first:
+      213: -4065637028741519559
+    second: Male spritesheet_157
+  - first:
+      213: -2985623711713428712
+    second: Male spritesheet_158
+  - first:
+      213: -8008181230709059828
+    second: Male spritesheet_159
+  - first:
+      213: 7435406767976567220
+    second: Male spritesheet_160
+  - first:
+      213: 8735207668814235750
+    second: Male spritesheet_161
+  - first:
+      213: -8475825364301308646
+    second: Male spritesheet_162
+  - first:
+      213: 5041628533555987746
+    second: Male spritesheet_163
+  - first:
+      213: -7878645687478093745
+    second: Male spritesheet_164
+  - first:
+      213: 7642571331520572553
+    second: Male spritesheet_165
+  - first:
+      213: -5772448035874889629
+    second: Male spritesheet_166
+  - first:
+      213: 7061569127014853560
+    second: Male spritesheet_167
+  - first:
+      213: 3418003453495526645
+    second: Male spritesheet_168
+  - first:
+      213: 8890279397838817991
+    second: Male spritesheet_169
+  - first:
+      213: -6516355254024590068
+    second: Male spritesheet_170
+  - first:
+      213: -3309708121461460949
+    second: Male spritesheet_171
+  - first:
+      213: 7483660651350394205
+    second: Male spritesheet_172
+  - first:
+      213: 9044056113668147882
+    second: Male spritesheet_173
+  - first:
+      213: -657249721572145666
+    second: Male spritesheet_174
+  - first:
+      213: -8949631665160985030
+    second: Male spritesheet_175
+  - first:
+      213: 4284709686319665586
+    second: Male spritesheet_176
+  - first:
+      213: -1978406193037448397
+    second: Male spritesheet_177
+  - first:
+      213: -8109032280431351407
+    second: Male spritesheet_178
+  - first:
+      213: 205194494871620714
+    second: Male spritesheet_179
+  - first:
+      213: -2462487711230205759
+    second: Male spritesheet_180
+  - first:
+      213: 2777030245182133719
+    second: Male spritesheet_181
+  - first:
+      213: -7623676106315312771
+    second: Male spritesheet_182
+  - first:
+      213: -8971236670436552869
+    second: Male spritesheet_183
+  - first:
+      213: 4730652440406972937
+    second: Male spritesheet_184
+  - first:
+      213: 5675445081049442096
+    second: Male spritesheet_185
+  - first:
+      213: 4039619153672524873
+    second: Male spritesheet_186
+  - first:
+      213: -5846480907606591110
+    second: Male spritesheet_187
+  - first:
+      213: -6321681224096902399
+    second: Male spritesheet_188
+  - first:
+      213: 6502732741117212600
+    second: Male spritesheet_189
+  - first:
+      213: -3747910211412246654
+    second: Male spritesheet_190
+  - first:
+      213: -5386486619490099889
+    second: Male spritesheet_191
+  - first:
+      213: -5615549712057315841
+    second: Male spritesheet_192
+  - first:
+      213: 3874159307168010689
+    second: Male spritesheet_193
+  - first:
+      213: -2884895035088756752
+    second: Male spritesheet_194
+  - first:
+      213: -3670223876335171155
+    second: Male spritesheet_195
+  - first:
+      213: 8083368399640837583
+    second: Male spritesheet_196
+  - first:
+      213: -5542818222880628498
+    second: Male spritesheet_197
+  - first:
+      213: 7161706730160979714
+    second: Male spritesheet_198
+  - first:
+      213: -4078801479726252353
+    second: Male spritesheet_199
+  - first:
+      213: 6064407733536604531
+    second: Male spritesheet_200
+  - first:
+      213: -5090071681740870225
+    second: Male spritesheet_201
+  - first:
+      213: -937487432220305372
+    second: Male spritesheet_202
+  - first:
+      213: -8930236475419984409
+    second: Male spritesheet_203
+  - first:
+      213: -5292464886923215335
+    second: Male spritesheet_204
+  - first:
+      213: 34600009669065889
+    second: Male spritesheet_205
+  - first:
+      213: -3535087030356647330
+    second: Male spritesheet_206
+  - first:
+      213: -8587767335890965136
+    second: Male spritesheet_207
+  - first:
+      213: -940627557128977568
+    second: Male spritesheet_208
+  - first:
+      213: -2516560303095226077
+    second: Male spritesheet_209
+  - first:
+      213: 7561745935245457444
+    second: Male spritesheet_210
+  - first:
+      213: -4570296721607235541
+    second: Male spritesheet_211
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Male spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 184
+        width: 354
+        height: 727
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78b7089d28dce240800000000000000
+      internalID: 4822466991342729341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 176
+        width: 359
+        height: 738
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2959288e2b67bcdd0800000000000000
+      internalID: -2464745860278086254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 167
+        width: 237
+        height: 745
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ab709cf690797e0800000000000000
+      internalID: -1758926753746142564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 170
+        width: 181
+        height: 742
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f93fe45fa77c700800000000000000
+      internalID: 560551872641081234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 183
+        width: 356
+        height: 727
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f62f6478d60b460800000000000000
+      internalID: 7255419427472174907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
