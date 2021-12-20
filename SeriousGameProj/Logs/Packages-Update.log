@@ -1,8 +1,15 @@
 
+<<<<<<< Updated upstream
 === Tue Nov  9 02:22:24 2021
 
 Packages were changed.
 Update Mode: mergeDefaultDependencies
+=======
+=== Mon Dec 20 04:23:42 2021
+
+Packages were changed.
+Update Mode: resetToDefaultDependencies
+>>>>>>> Stashed changes
 
 The following packages were added:
   com.unity.collab-proxy@1.9.0
@@ -44,7 +51,10 @@ The following packages were added:
   com.unity.textmeshpro@3.0.6
   com.unity.timeline@1.4.8
   com.unity.ugui@1.0.0
+<<<<<<< Updated upstream
 The following packages were updated:
   com.unity.2d.animation from version 5.0.1 to 5.0.7
   com.unity.2d.psdimporter from version 4.0.1 to 4.1.0
   com.unity.2d.spriteshape from version 5.0.1 to 5.1.4
+=======
+>>>>>>> Stashed changes
