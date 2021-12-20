@@ -104,27 +104,27 @@ public class ScoreTracker : MonoBehaviour
         if (sceneNum == 1)
         {
             //sceneText.text = "Level " + level;
-            sceneText.text = "Level " + firstLevelDisplayNum;
+            sceneText.text = "Level: Home Sweet Home ";
         }
         if (sceneNum == 2)
         {
-            sceneText.text = "Level " + secondLevelDisplayNum;
+            sceneText.text = "Level: Bus Stop";
         }
         if (sceneNum == 3)
         {
-            sceneText.text = "Level " + thirdLevelDisplayNum;
+            sceneText.text = "Level: Office";
         }
         if (sceneNum == 4)
         {
-            sceneText.text = "Level 4";
+            sceneText.text = "Level: Groceries";
         }
         if (sceneNum == 5)
         {
-            sceneText.text = "Level 5";
+            sceneText.text = "Level: Bus Stop";
         }
         if (sceneNum ==6)
         {
-            sceneText.text = "Level 6";
+            sceneText.text = "Level: Home Sweet Home";
         }
     }
     
